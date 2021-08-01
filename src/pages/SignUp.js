@@ -103,7 +103,6 @@ export default function SignUp() {
                                 fullWidth
                                 id="phoneMain"
                                 label="Phone Number"
-                                autoFocus
                             />
                         </Grid>
                         <Grid item xs={12} sm={6}>
@@ -114,7 +113,6 @@ export default function SignUp() {
                                 fullWidth
                                 id="phoneExtra"
                                 label="Other Phone Number"
-                                autoFocus
                             />
                         </Grid>
                         <Grid item xs={12}>
