@@ -5,7 +5,7 @@ const initialState = {
 }
 
 export const drawerStateSlice = createSlice({
-    name: 'appState',
+    name: 'drawerState',
     initialState,
     reducers: {
         expand: (state) => {
